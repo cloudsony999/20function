@@ -33,7 +33,8 @@ st.exception(x)
 
 st.write('WELCOME ALL')
 
-p=i.open('C:\\streamlitdemo\\winter.jpg')
+#p=i.open('C:\\streamlitdemo\\winter.jpg')
+p=i.open('winter.jpg')
 
 
 st.image(p,width=300)
